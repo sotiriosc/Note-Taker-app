@@ -22,6 +22,8 @@ I learned how to route statis webpages using javascript so that use inputs are r
 
 ## Table of Contents:
 
+[Image-of-website](./public/assets/resources/note%20taker%20app.png),
+
 [1. Installation](#Installation)
 
 [2. Usage](#Usage)
