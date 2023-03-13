@@ -60,7 +60,9 @@ No tests
 The source code of this project can be found on my Github repository at www.github.com/sotiriosc. Feel free to contact 
 me any time regarding questions or recomendations. My email is chortogiannoss@gmail.com. Thank you for taking the time to review and use my app. 
 
+Deplyed website URL: https://note-taker-app-proj.herokuapp.com/
+GitHub URL: https://github.com/sotiriosc/Note-Taker-app
+
          
     
-        [Deplyed website URL:](https://note-taker-app-proj.herokuapp.com/)
-        [GitHub URL:](https://github.com/sotiriosc/Note-Taker-app)
+        
