@@ -14,7 +14,7 @@ To produce an app that can record notes.
 
 ### Solve
 
-It assits in taking note and storing them in an array on a server. 
+It assits in taking notes and storing them in an array on a server. 
 
 ### Learn
 
